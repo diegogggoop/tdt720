@@ -7,7 +7,7 @@ el vídeo sale de los servidores oficiales de cada cadena.
 
 ## Lista completa
 
-`lista-buena.m3u`: 63 canales a 720p como máximo (TDT, cine y series, autonómicos, internacionales), todos de
+`lista-buena.m3u`: 80 canales a 720p como máximo (TDT, cine y series, temáticos, autonómicos, internacionales), todos de
 emisiones oficiales o plataformas gratuitas legales. Para cargarla en un reproductor IPTV:
 
     https://cdn.jsdelivr.net/gh/diegogggoop/tdt720@main/lista-buena.m3u
